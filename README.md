@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **[MyCarLogs](https://github.com/tomgly/mycarlogs) App**.
 - 🌱 I’m currently learning **database and serverless service like Azure and AWS**.
 - 💬 Ask me about **docker, flutter and Japan**. 
-- 📫 How to reach me: **[Contact Me](https://tomgly.com/contact)**
+- 📫 How to reach me: **[Contact Me](https://tomgly.com/contact.html)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C,C%23,C++/All.png?raw=true" width="100">
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Swift/Swift.png?raw=true" width="100">
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Java/Java.png?raw=true" width="100">
-  <br><b>Icon made by <a href="https://github.com/SAWARATSUKI" target="blank">SAWARATSUKI</a></b>
+  <br><b>Icon made by <a href="https://github.com/SAWARATSUKI" target="blank">@SAWARATSUKI</a></b>
 </p>
                                                                                         
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomgly&layout=compact" alt="tomgly" /></p>
