@@ -2,7 +2,7 @@
 <h3 align="center">A passionate App/Web Developer from Japan</h3>
 <img src="https://komarev.com/ghpvc/?username=tomgly&label=Profile%20views&color=brightgreen&style=flat"/>
 
-- 🔭 I’m currently working on **[MyCarLogs](https://github.com/tomgly/mycarlogs) App**.
+- 🔭 I’m currently working on **[MyCarLogs](https://github.com/tomgly/MyCarLogs) and [BatterySync](https://github.com/tomgly/BatterySync) App**.
 - 🌱 I’m currently learning **database and serverless service like Azure and AWS**.
 - 💬 Ask me about **docker, flutter and Japan**. 
 - 📫 How to reach me: **[Contact Me](https://tomgly.com/contact.html)**
