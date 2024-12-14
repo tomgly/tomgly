@@ -26,8 +26,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>C</li>
-  <li>C++</li>
+  <li>C/C++</li>
   <li>Java</li>
   <li>Python</li>
   <li>Swift/SwiftUI</li>
