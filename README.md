@@ -23,21 +23,24 @@
 </ul>
 
 <h2>💻 Programming Languages & UI toolkit</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>C/C++</li>
-  <li>Java</li>
-  <li>Python</li>
-  <li>Swift/SwiftUI</li>
-  <li>Dart/Flutter</li>
-</ul>
+
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Json" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+<img align="left" alt="Swift" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+<br><br>
 
 <h2>💬 Ask Me About</h2>
 <ul>
   <li><strong>Docker</strong>: Containerization made simple!</li>
-  <li><strong>Flutter</strong>: Building beautiful cross-platform apps.</li>
-  <li><strong>Japan</strong>: From tech to food and culture, let's talk about my homeland.</li>
+  <li><strong>Flutter</strong>: Building neat cross-platform apps!</li>
+  <li><strong>Japan</strong>: From tech to food and culture, let's talk about my homeland!</li>
 </ul>
 
 <h2>📫 Connect With Me</h2>
