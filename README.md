@@ -12,7 +12,7 @@
 <h2>💼 Where I Work</h2>
 <ul>
   <li><strong>Company:</strong> <a href="https://github.com/epsilon-labs-llc">Epsilon Labs</a> (Japan)</li>
-  <li><strong>Status:</strong> Also a student in the U.S.</li>
+  <li><strong>Status:</strong> Also a colloge student in the United State</li>
 </ul>
 
 <h2>🌱 What I'm Learning</h2>
@@ -39,8 +39,8 @@
 
 <h2>💬 Ask Me About</h2>
 <ul>
-  <li><strong>Docker</strong>: Containerization made simple!</li>
-  <li><strong>Flutter</strong>: Building neat cross-platform apps!</li>
+  <li><strong>Docker</strong>: Containerization made simple, easy to launch and destroy environments as needed</li>
+  <li><strong>Flutter</strong>: Still learning, let's build neat cross-platform apps!</li>
   <li><strong>Japan</strong>: From tech to food and culture, let's talk about my homeland!</li>
 </ul>
 
