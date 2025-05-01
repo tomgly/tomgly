@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tomgly!</h1>
+<h1 align="center">👋 Hi, I'm Tomoya!</h1>
 <h3 align="center">A passionate App/Web Developer from Japan</h3>
 <p align="center">I enjoy building apps and websites that make life easier and more enjoyable.</p>
 <img src="https://komarev.com/ghpvc/?username=tomgly&label=Profile%20views&color=brightgreen&style=flat"/>
