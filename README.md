@@ -12,7 +12,6 @@
 <h2>💼 Where I Work</h2>
 <ul>
   <li><strong>Company:</strong> <a href="https://github.com/epsilon-labs-llc">Epsilon Labs</a> (Japan)</li>
-  <li><strong>Status:</strong> Also a colloge student in the United State</li>
 </ul>
 
 <h2>🌱 What I'm Learning</h2>
@@ -48,10 +47,6 @@
 <ul>
   <li><strong>GitHub</strong>: You're already here! Feel free to explore my repositories.</li>
 </ul>
-                                                                                        
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomgly&layout=compact" alt="tomgly" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomgly" alt="tomgly" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomgly&" alt="tomgly" /></p>
 
