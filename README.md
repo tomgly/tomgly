@@ -1,53 +1,93 @@
-<h1 align="center">👋 Hi, I'm Tomoya!</h1>
-<h3 align="center">A passionate App/Web Developer from Japan</h3>
-<p align="center">I enjoy building apps and websites that make life easier and more enjoyable.</p>
-<img src="https://komarev.com/ghpvc/?username=tomgly&label=Profile%20views&color=brightgreen&style=flat"/>
+<h1 align="center">Hi, I'm Tomoya</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 
-<h2>🚀 What I'm Working On</h2>
-<ul>
-  <li><strong>MyCarLogs</strong>: An app that allows you to manage all information about your cars in one place.</li>
-  <li><strong>BatterySync</strong>: An app that shares battery information between multiple devices and across different OS.</li>
-</ul>
+<p align="center">
+  I enjoy building software, websites, and apps that make life easier and more enjoyable.
+</p>
 
-<h2>💼 Where I Work</h2>
-<ul>
-  <li><strong>Company:</strong> <a href="https://github.com/epsilon-labs-llc">Epsilon Labs</a> (Japan)</li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tomgly&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Ohio-USA-blue?style=flat" alt="Ohio, USA" />
+  <img src="https://img.shields.io/badge/From-Japan-red?style=flat" alt="From Japan" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Japanese-success?style=flat" alt="Languages" />
+</p>
 
-<h2>🌱 What I'm Learning</h2>
-<ul>
-  <li><strong>Databases</strong>: Enhancing my skills in relational and non-relational databases.</li>
-  <li><strong>Serverless Services</strong>: Exploring <strong>Azure</strong> and <strong>AWS</strong> for scalable solutions.</li>
-  <li><strong>Generative AI</strong>: Studying tools like <strong>ChatGPT</strong> and <strong>Gemini</strong> to integrate AI into apps and services.</li>
-</ul>
+## Projects
 
-<h2>💻 Programming Languages & UI toolkit</h2>
+### LogTrace
 
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="WordPress" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Json" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img align="left" alt="Swift" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-<img align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<br><br>
+AI Agent Auditing Platform
 
-<h2>💬 Ask Me About</h2>
-<ul>
-  <li><strong>Docker</strong>: Containerization made simple, easy to launch and destroy environments as needed</li>
-  <li><strong>Flutter</strong>: Still learning, let's build neat cross-platform apps!</li>
-  <li><strong>Japan</strong>: From tech to food and culture, let's talk about my homeland!</li>
-</ul>
+Next.js • Rust • SQLite • MCP
 
-<h2>📫 Connect With Me</h2>
-<ul>
-  <li><strong>GitHub</strong>: You're already here! Feel free to explore my repositories.</li>
-</ul>
+<a href="https://logtraces.com" target="_blank" rel="noopener noreferrer">Homepage</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomgly&" alt="tomgly" /></p>
+### 7Days.md
 
-<p>Keep coding and creating! 🚀<br>Tomgly</p>
+Temporary Markdown Publishing Platform
+
+Next.js • TypeScript • Supabase
+
+<a href="https://7days-md.com" target="_blank" rel="noopener noreferrer">Homepage</a>
+
+### MyCarLogs
+
+Vehicle Management Platform
+
+Flutter • Dart • Firebase
+
+## Technologies
+
+### General Purpose
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Mobile
+<p> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+</p>
+
+### Web
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### AI
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+</p>
+
+## Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomgly&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomgly&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=tomgly&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
